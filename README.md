@@ -1,1 +1,1 @@
-# Verilog-Codes
+This Repository contains Verilog RTL & Testbench for Digital Combinational Circuits.
