@@ -28,4 +28,5 @@ Contents:
 25. BCD to Excess-3 Code Converter using 4:10 Decoder
 26. Adder-Subtractor Circuit
 27. Binary to Gray Code Converter & Vice Versa
+28. File input, File output operations
 
